@@ -2,4 +2,8 @@
 
 ## 使用ライブラリ
 ・pandas
-https://pandas.pydata.org/pandas-docs/stable/index.html
+https://pandas.pydata.org/
+
+## 使用データセット
+・Stack Exchange Data Dump
+https://archive.org/details/stackexchange
